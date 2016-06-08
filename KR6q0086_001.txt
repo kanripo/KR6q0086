@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:45:33.430666
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:02
 #+TITLE: 最上乘論
 #+PROPERTY: CBETA_ID T48n2011
 #+PROPERTY: ID KR6q0086
